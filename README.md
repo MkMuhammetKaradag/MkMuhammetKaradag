@@ -18,4 +18,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mkmuhammetkaradag&" alt="mkmuhammetkaradag" /></p>
 
-![snake gif](https://github.com/MkMuhammetKaradag/MkMuhammetKaradag/blob/output/github-contribution-grid-snake.svg)
