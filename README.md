@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 📫 How to reach me **muhammetkaradag@protonmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
